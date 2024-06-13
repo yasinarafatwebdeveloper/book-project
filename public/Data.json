@@ -1,0 +1,140 @@
+
+
+[
+    {
+    
+      "book_name": "To Kill a Mockingbird",
+      "category": "Fiction",
+      "image": "https://i.postimg.cc/FFBf4TWk/img1.jpg",
+      "author_name": "Harper Lee",
+      "short_description": "A classic novel set in the American South during the 1930s, dealing with the issues of racial injustice and moral growth.",
+      "rating": 4.5,
+      "quantity": 10,
+      "button": "Add to Cart"
+    },
+    {
+      
+      "book_name": "1984",
+      "category": "Fiction",
+      "image": "https://i.postimg.cc/ydwkFdSX/img2.jpg",
+      "author_name": "George Orwell",
+      "short_description": "A dystopian novel set in a totalitarian regime, exploring themes of surveillance, government oppression, and individual freedom.",
+      "rating": 4.7,
+      "quantity": 15,
+      "button": "Add to Cart"
+    },
+    {
+      
+      "book_name": "The Great Gatsby",
+      "category": "Fiction",
+      "image": "https://i.postimg.cc/8Pg7c7GT/img3.jpg",
+      "author_name": "F. Scott Fitzgerald",
+      "short_description": "A novel set in the Jazz Age, depicting the American Dream, excess, and moral decay through the lives of wealthy socialites.",
+      "rating": 4.6,
+      "quantity": 12,
+      "button": "Add to Cart"
+    },
+    {
+     
+      "book_name": "Pride and Prejudice",
+      "category": "Fiction",
+      "image": "https://i.postimg.cc/T3RhjBhS/img4.jpg",
+      "author_name": "Jane Austen",
+      "short_description": "A romantic novel set in early 19th-century England, focusing on themes of love, marriage, and societal expectations.",
+      "rating": 4.8,
+      "quantity": 8,
+      "button": "Add to Cart"
+    },
+    {
+      
+      "book_name": "The Catcher in the Rye",
+      "category": "Fiction",
+      "image": "https://i.postimg.cc/jj15b5v0/img5.jpg",
+      "author_name": "J.D. Salinger",
+      "short_description": "A coming-of-age novel narrated by a teenager, Holden Caulfield, who reflects on the phoniness of adult society.",
+      "rating": 4.4,
+      "quantity": 20,
+      "button": "Add to Cart"
+    },
+    {
+      
+      "book_name": "Moby-Dick",
+      "category": "Fiction",
+      "image": "https://i.postimg.cc/PJWrYMHT/img6.jpg",
+      "author_name": "Herman Melville",
+      "short_description": "A novel that follows the voyage of the Pequod, led by the obsessed Captain Ahab, as they hunt the elusive white whale, Moby Dick.",
+      "rating": 4.3,
+      "quantity": 5,
+      "button": "Add to Cart"
+    },
+    {
+      
+      "book_name": "Jane Eyre",
+      "category": "Fiction",
+      "image": "https://i.postimg.cc/cJvxXWWD/img7.jpg",
+      "author_name": "Charlotte Brontë",
+      "short_description": "A bildungsroman novel that follows the experiences of Jane Eyre, an orphan, as she grows into adulthood and finds love.",
+      "rating": 4.6,
+      "quantity": 18,
+      "button": "Add to Cart"
+    },
+    {
+     
+      "book_name": "The Hobbit",
+      "category": "Fantasy",
+      "image": "https://i.postimg.cc/15yybwPV/img8.jpg",
+      "author_name": "J.R.R. Tolkien",
+      "short_description": "A fantasy novel that follows the journey of Bilbo Baggins as he sets out to reclaim the Lonely Mountain and its treasure from the dragon Smaug.",
+      "rating": 4.9,
+      "quantity": 25,
+      "button": "Add to Cart"
+    },
+    {
+      
+      "book_name": "Harry Potter and the Sorcerer's Stone",
+      "category": "Fantasy",
+      "image": "https://i.postimg.cc/ydwkFdSX/img2.jpg",
+      "author_name": "J.K. Rowling",
+      "short_description": "The first book in the Harry Potter series, following the adventures of a young wizard, Harry Potter, as he attends Hogwarts School of Witchcraft and Wizardry.",
+      "rating": 5.0,
+      "quantity": 30,
+      "button": "Add to Cart"
+    },
+    {
+     
+      "book_name": "The Lord of the Rings: The Fellowship of the Ring",
+      "category": "Fantasy",
+      "image": "https://i.postimg.cc/FFBf4TWk/img1.jpg",
+      "author_name": "J.R.R. Tolkien",
+      "short_description": "The first part of the epic fantasy trilogy that follows the journey of Frodo Baggins to destroy the One Ring and defeat the Dark Lord Sauron.",
+      "rating": 4.9,
+      "quantity": 22,
+      "button": "Add to Cart"
+    },
+    {
+     
+      "book_name": "The Hunger Games",
+      "category": "Science Fiction",
+      "image": "https://i.postimg.cc/T3RhjBhS/img4.jpg",
+      "author_name": "Suzanne Collins",
+      "short_description": "A dystopian novel set in a post-apocalyptic nation, where teenagers are forced to participate in a televised death match called the Hunger Games.",
+      "rating": 4.7,
+      "quantity": 17,
+      "button": "Add to Cart"
+    },
+    {
+   
+      "book_name": "The Martian",
+      "category": "Science Fiction",
+      "image": "https://i.postimg.cc/PJWrYMHT/img6.jpg",
+      "author_name": "Andy Weir",
+      "short_description": "A science fiction novel that follows the struggle for survival of an astronaut stranded on Mars after his crew presumed him dead and left the planet.",
+      "rating": 4.5,
+      "quantity": 13,
+      "button": "Add to Cart"
+    }
+  ]
+  
+
+
+
